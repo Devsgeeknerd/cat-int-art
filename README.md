@@ -10,6 +10,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Introdução à Inteligência Artificial:** Fundamentos e conceitos básicos de inteligência artificial.
   * História e evolução da IA;
   * Tipos de IA (IA fraca vs IA forte);
+  * Aplicação da IA em diferentes indústrias;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
