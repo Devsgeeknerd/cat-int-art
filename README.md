@@ -19,6 +19,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * implantação de modelos em Python usando bibliotecas;
   * Avaliação e validação de modelos.
 
+* **Deep Learning:** Técnicas avançadas de aprendizado de máquina usando redes neurais profundas.
+
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
 <!-- Informações -->
