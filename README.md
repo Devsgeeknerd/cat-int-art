@@ -16,6 +16,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Aprendizado de Máquina (Machine Learning):** Algoritmos e técnicas de aprendizado de máquina para criar modelos preditivos.
   * Tipos de aprendizado de máquinas (supervisionado, não supervisionado, semi-supervisionado, e por reforço);
   * Algoritmos comuns (regressão linear, árvores de decisão, k-means, svm, redes neurais);
+  * implantação de modelos em Python usando bibliotecas;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
