@@ -14,6 +14,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Ética e implicações sociais da IA.
 
 * **Aprendizado de Máquina (Machine Learning):** Algoritmos e técnicas de aprendizado de máquina para criar modelos preditivos.
+  * Tipos de aprendizado de máquinas (supervisionado, não supervisionado, semi-supervisionado, e por reforço);
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
