@@ -3,6 +3,12 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria Inteligência Artificial é essencial para aqueles que desejam criar sistemas inteligentes e autônomos.
+
+Ao completar esta categoria, terá habilidades robustas em:
+
+Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
+
 <!-- Informações -->
 ## &#8505; Informações
 
