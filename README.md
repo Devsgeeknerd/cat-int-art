@@ -13,6 +13,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Aplicação da IA em diferentes indústrias;
   * Ética e implicações sociais da IA.
 
+* **Aprendizado de Máquina (Machine Learning):** Algoritmos e técnicas de aprendizado de máquina para criar modelos preditivos.
+
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
 <!-- Informações -->
