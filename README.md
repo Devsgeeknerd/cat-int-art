@@ -11,6 +11,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * História e evolução da IA;
   * Tipos de IA (IA fraca vs IA forte);
   * Aplicação da IA em diferentes indústrias;
+  * Ética e implicações sociais da IA.
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
