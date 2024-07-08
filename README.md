@@ -1,6 +1,8 @@
 <!-- Título -->
 # Inteligência Artificial
 
+***Conteúdo da Categoria:***
+
 <!-- Informações -->
 ## &#8505; Informações
 
