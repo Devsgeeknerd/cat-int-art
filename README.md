@@ -8,6 +8,7 @@ A categoria Inteligência Artificial é essencial para aqueles que desejam criar
 Ao completar esta categoria, terá habilidades robustas em:
 
 * **Introdução à Inteligência Artificial:** Fundamentos e conceitos básicos de inteligência artificial.
+  * História e evolução da IA;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
