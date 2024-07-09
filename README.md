@@ -32,6 +32,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Aplicações de NLP (chatbots, análise de sentimentos, tradução automática).
 
 * **Visão Computacional:** Técnicas para análise e interpretação de imagens e videos.
+  * Fundamentos de visão computacional;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
