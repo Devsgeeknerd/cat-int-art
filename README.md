@@ -27,6 +27,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Processamento de Linguagem Natural (NPL):** Técnicas para análise e compreensão de texto e linguagem natural.
   * Fundamentos de NPL;
+  * Pré-processamento de texto (totemização, stemming, lematização);
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
