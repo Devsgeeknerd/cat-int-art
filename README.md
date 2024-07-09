@@ -45,6 +45,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Ética e IA:** Considerações éticas e implicações sociais da IA.
   * Preconceitos e justiça nos algoritmos de IA;
+  * Privacidade e segurança de dados;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
