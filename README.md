@@ -57,6 +57,21 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
+> [!IMPORTANT]\
+> **Dicas de Estudo:**
+>
+> * Prática Contínua:
+>   * Trabalhe em projetos práticos para aplicar os conceitos aprendidos.
+>
+> * Certificações:
+>   * Obtenha certificações reconhecidas para validar suas habilidades.
+>
+> * Participação em Comunidades:
+>   * Envolva-se em comunidades de IA para trocar conhecimento e resolver problemas.
+>
+> * Atualização Constante:
+>   * Mantenha-se atualizado com as últimas pesquisas e avanços na area de IA.
+
 <!-- Informações -->
 ## &#8505; Informações
 
