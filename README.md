@@ -53,6 +53,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Linguagens de programação para IA;
   * Bibliotecas e frameworks;
   * Plataformas de desenvolvimento de IA;
+  * Ambientes de desenvolvimento integrado (IDEs) e notebooks Jupyter.
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
