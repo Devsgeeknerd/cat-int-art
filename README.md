@@ -47,6 +47,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Preconceitos e justiça nos algoritmos de IA;
   * Privacidade e segurança de dados;
   * Impacto da IA no mercado de trabalho;
+  * Regulamentação e políticas de IA.
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
