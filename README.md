@@ -41,6 +41,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Fundamentos de robótica;
   * Controle e navegação de robôs;
   * Percepção e sensoramento;
+  * Planejamento e tomada de decisão para robôs autônomos.
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
