@@ -39,6 +39,8 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Robótica e IA:** Aplicação de IA em robótica para criar sistemas autônomos.
   * Fundamentos de robótica;
+  * Controle e navegação de robôs;
+  * Percepção e sensoramento;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
