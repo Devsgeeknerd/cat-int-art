@@ -51,6 +51,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Ferramentas e Tecnologias de IA:** Introdução as ferramentas e tecnologias usadas em IA.
   * Linguagens de programação para IA;
+  * Bibliotecas e frameworks;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
