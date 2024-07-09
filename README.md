@@ -29,6 +29,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Fundamentos de NLP;
   * Pré-processamento de texto (totemização, stemming, lematização);
   * Modelos de NLP (bag-of-words, tf-idf, word embedding);
+  * Aplicações de NLP (chatbots, análise de sentimentos, tradução automática).
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
