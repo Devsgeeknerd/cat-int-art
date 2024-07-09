@@ -49,6 +49,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Impacto da IA no mercado de trabalho;
   * Regulamentação e políticas de IA.
 
+* **Ferramentas e Tecnologias de IA:** Introdução as ferramentas e tecnologias usadas em IA.
+
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
 <!-- Informações -->
