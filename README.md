@@ -22,6 +22,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Deep Learning:** Técnicas avançadas de aprendizado de máquina usando redes neurais profundas.
   * Redes neurais artificiais (perceptron, redes multicamadas);
   * Redes neurais convolucionais (CNNs) para visão computacional;
+  * Redes neurais recorrentes (RNNs) para processamento de linguagem natural;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
