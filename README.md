@@ -38,6 +38,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Aplicações de visão computacional (reconhecimento facial, detecção, de objetos, análise de vídeos)
 
 * **Robótica e IA:** Aplicação de IA em robótica para criar sistemas autônomos.
+  * Fundamentos de robótica;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
