@@ -43,6 +43,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Percepção e sensoramento;
   * Planejamento e tomada de decisão para robôs autônomos.
 
+* **Ética e IA:** Considerações éticas e implicações sociais da IA.
+
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
 <!-- Informações -->
