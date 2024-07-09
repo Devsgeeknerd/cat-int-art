@@ -33,6 +33,8 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Visão Computacional:** Técnicas para análise e interpretação de imagens e videos.
   * Fundamentos de visão computacional;
+  * Técnicas de processamento de imagem (filtragem, detecção de bordas, segmentação);
+  * Redes neurais convolucionais (CNNs) para classificação de imagens;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
